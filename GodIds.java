@@ -1,0 +1,85 @@
+package com.seroka.chimere;
+
+/** Identifiants stables des dieux — une constante par dieu au fur et à mesure des tests. */
+public final class GodIds {
+
+  public static final String VACHE = "vache";
+  public static final String MOUTON = "mouton";
+  public static final String COCHON = "cochon";
+  public static final String POULET = "poulet";
+  public static final String LAPIN = "lapin";
+  public static final String CHEVAL = "cheval";
+  public static final String ANE = "ane";
+  public static final String MULE = "mule";
+  public static final String LOUP = "loup";
+  public static final String RENARD = "renard";
+  public static final String LEFIN = "lefin";
+  public static final String MORUE = "morue";
+  public static final String SAUMON = "saumon";
+  public static final String POISSON_TROPICAL = "poisson_tropical";
+  public static final String POISSON_GLOBE = "poisson_globe";
+  public static final String CALAMAR = "calamar";
+  public static final String CALAMAR_LUMINESCENT = "calamar_luminescent";
+  public static final String TORTUE = "tortue";
+  public static final String DAUPHIN = "dauphin";
+  public static final String AXOLOTL = "axolotl";
+  public static final String GRENOUILLE = "grenouille";
+  public static final String TETARD = "tetard";
+  public static final String ZOMBIE = "zombie";
+  public static final String ZOMBIE_VILLAGEOIS = "zombie_villageois";
+  public static final String HUSK = "husk";
+  public static final String NOYE = "noye";
+  public static final String SQUELETTE = "squelette";
+  public static final String VAGABOND = "vagabond";
+  public static final String EMBOURBE = "embourbe";
+  public static final String ARAIGNEE = "araignee";
+  public static final String ARAIGNEE_EMPOISONNEE = "araignee_empoisonnee";
+  public static final String CREEPER = "creeper";
+  public static final String CREEPER_CHARGE = "creeper_charge";
+  public static final String SORCIERE = "sorciere";
+  public static final String PHANTOME = "phantome";
+  public static final String OURS_POLAIRE = "ours_polaire";
+  public static final String LAMA = "lama";
+  public static final String CHEVRE = "chevre";
+  public static final String CHAMEAU = "chameau";
+  public static final String CHAUVE_SOURIS = "chauve_souris";
+  public static final String POISSON_ARGENT = "poisson_argent";
+  public static final String VINDICATEUR = "vindicateur";
+  public static final String PILLARD = "pillard";
+  public static final String EVOCATEUR = "evocateur";
+  public static final String RAVAGEUR = "ravageur";
+  public static final String PERROQUET = "perroquet";
+  public static final String GHAST = "ghast";
+  public static final String PIGLIN_ZOMBIFIE = "piglin_zombifie";
+  public static final String PIGLIN = "piglin";
+  public static final String PIGLIN_BRUTE = "piglin_brute";
+  public static final String ZOGLIN = "zoglin";
+  public static final String ARPENTEUR = "arpenteur";
+  public static final String BLAZE = "blaze";
+  public static final String WITHER_SQUELETTE = "wither_squelette";
+  public static final String WITHER_SQUELETTE_BOSS = "wither_squelette_boss";
+  public static final String MAGMA_CUBE = "magma_cube";
+  public static final String GARDIEN = "gardien";
+  public static final String GRAND_GARDIEN = "grand_gardien";
+  public static final String BREEZE = "breeze";
+  public static final String SLIME = "slime";
+  public static final String TATOU = "tatou";
+  public static final String RENIFLEUR = "renifleur";
+  public static final String WARDEN = "warden";
+  public static final String ENDERMAN = "enderman";
+  public static final String SHULKER = "shulker";
+  public static final String ENDERMITE = "endermite";
+  public static final String ABEILLE = "abeille";
+  public static final String ALLAY = "allay";
+  public static final String VEX = "vex";
+  public static final String PANDA = "panda";
+  public static final String VACHE_CHAMPIGNON = "vache_champignon";
+  public static final String GOLEM_FER = "golem_fer";
+  public static final String GOLEM_NEIGE = "golem_neige";
+  public static final String VILLAGEOIS = "villageois";
+  public static final String MARCHAND_AMBULANT = "marchand_ambulant";
+  public static final String ILLUSIONNISTE = "illusionniste";
+  public static final String ENDER_DRAGON = "ender_dragon";
+
+  private GodIds() {}
+}
